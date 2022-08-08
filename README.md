@@ -1,7 +1,7 @@
 <h2>Space Cream | Galaxy</h2>
 
 <div align="center">
-  <img width="600" src="./assets/rochet nft.png"/>
+  <img width="600" src="./images/project.png"/>
 </div>
   
 <h2>Description</h2>
