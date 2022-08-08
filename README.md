@@ -1,4 +1,4 @@
-<h2>Space Cream</h2>
+<h2>Space Cream | Galaxy</h2>
 
 <div align="center">
   <img width="600" src="./assets/rochet nft.png"/>
